@@ -1,0 +1,13 @@
+--2021-08-03 01:13:06--  https://i.stack.imgur.com/8ckF1.jpg
+Resolving i.stack.imgur.com... 151.101.112.193
+Connecting to i.stack.imgur.com|151.101.112.193|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 149625 (146K) [image/jpeg]
+Saving to: ‘8ckF1.jpg’
+
+     0K .......... .......... .......... .......... .......... 34% 1.49M 0s
+    50K .......... .......... .......... .......... .......... 68% 1.88M 0s
+   100K .......... .......... .......... .......... ......    100% 4.27M=0.07s
+
+2021-08-03 01:13:06 (2.06 MB/s) - ‘8ckF1.jpg’ saved [149625/149625]
+

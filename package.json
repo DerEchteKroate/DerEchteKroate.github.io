@@ -1,0 +1,19 @@
+{
+  "name": "3d-page",
+  "version": "0.1.0",
+  "homepage": "http://derechtekroate.github.io",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "serve": "vite preview",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
+  },
+  "devDependencies": {
+    "vite": "^2.4.4"
+  },
+  "dependencies": {
+    "three": "^0.131.1",
+    "throttle-debounce": "^3.0.1"
+  }
+}
